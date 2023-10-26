@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.color-palette {
+  width: 500px;
+  height: 250px;
+  border: 5px solid black;
+  display: flex;
+}
+
+.color-block {
+  flex: 1;
+}
+
+#colorsList {
+  text-align: left;
+}
+
+#contentDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
