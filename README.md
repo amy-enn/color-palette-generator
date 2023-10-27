@@ -23,11 +23,12 @@ Make sure you have Node.js installed on your system.
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/color-palette-generator.git
+   git clone https://github.com/amy-enn/color-palette-generator.git
    ```
 
 2. Navigate to the project's root directory:
-```cd color-palette-generator
+```
+cd color-palette-generator
 ```
 
 3. Install the project dependencies:
@@ -35,7 +36,7 @@ Make sure you have Node.js installed on your system.
 npm install
 ```
 
-###Usage
+### Usage
 
 
 1. Start the development server:
