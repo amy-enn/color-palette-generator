@@ -4,6 +4,8 @@
 
 A simple web application to generate a 5-color palette of CSS color property keywords randomly. This application is built using TypeScript and React.
 
+*** not yet responsive/optimized for mobile.  
+
 
 ## Features
 
